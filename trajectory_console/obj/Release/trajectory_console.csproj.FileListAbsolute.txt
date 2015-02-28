@@ -1,0 +1,5 @@
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\bin\Release\trajectory_console.exe.config
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\bin\Release\trajectory_console.exe
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\bin\Release\trajectory_console.pdb
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\obj\Release\trajectory_console.exe
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\obj\Release\trajectory_console.pdb

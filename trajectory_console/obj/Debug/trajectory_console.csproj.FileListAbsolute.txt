@@ -1,0 +1,6 @@
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\bin\Debug\trajectory_console.exe.config
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\obj\Debug\trajectory_console.csprojResolveAssemblyReference.cache
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\bin\Debug\trajectory_console.exe
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\bin\Debug\trajectory_console.pdb
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\obj\Debug\trajectory_console.exe
+D:\Development\c#\Coursera\trajectory_console\trajectory_console\obj\Debug\trajectory_console.pdb
